@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-with-LSTMs-in-Keras
+# Stock-Price Prediction with LSTMs in PyTorch & Keras
 
 Models built in PyTorch & Keras (Only results shown for PyTorch)
 Hyperparameters are constantly being tweaked, so dont think that one is better than the other
