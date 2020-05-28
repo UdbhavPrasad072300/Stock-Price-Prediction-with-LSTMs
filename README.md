@@ -1,6 +1,7 @@
 # Stock-Price-Prediction-with-LSTMs-in-Keras
 
 Models built in PyTorch & Keras (Only results shown for PyTorch)
+Hyperparameters are constantly being tweaked, so dont think that one is better than the other
 
 Tableau is used for visualizing stocks (PDFs contain the Tableau Visualizations)
 
